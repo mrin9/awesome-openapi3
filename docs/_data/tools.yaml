@@ -3346,6 +3346,14 @@
   updated: '2019-01-03T16:25:43Z'
   issues: 0
   logo: 'https://avatars3.githubusercontent.com/u/5056899?v=4'
+- github: 'https://mrin9.github.io/RapiDoc/'
+  v2: true
+  v3: true
+  category: documentation
+  name: RapiDoc Custom Element
+  description: Custom Element for OpenApi viewer
+  language: Custom Element
+  owner: mrin9
 - github: 'https://github.com/muskratjs/muskrat'
   v3: true
   category: parsers
